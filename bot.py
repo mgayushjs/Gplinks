@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from playwright.async_api import async_playwright
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+API_TOKEN = 'AAG-dgqCV9IodCM5NLCoUOamGnKkB37HdqU'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
